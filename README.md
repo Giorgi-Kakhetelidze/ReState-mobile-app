@@ -75,7 +75,7 @@ Welcome to the **Real Estate Buying & Selling App**! This is a modern mobile app
 
 ## 📹 Demo Video
 
-<video src="assets/images/screens/video.mp4" controls width="500"></video>
+https://drive.google.com/file/d/10RzJrrmuSs_weaMnayE9EhsX5HWZAoV5/view?usp=sharing
 
 
 
