@@ -3,6 +3,8 @@ import images from "@/constants/images";
 import { Image, Text, TouchableOpacity, View } from "react-native";
 import { Models } from "react-native-appwrite";
 
+
+
 interface Props {
   item: Models.Document;
   onPress?: () => void;
@@ -15,7 +17,7 @@ export const FeaturedCard = ({ item, onPress }: Props) => {
       className="flex flex-col items-start w-60 h-80 relative"
     >
       <Image source={{ uri: item.image }} className="size-full rounded-2xl" />
-
+      <img />
       <Image
         source={images.cardGradient}
         className="size-full rounded-2xl absolute bottom-0"
