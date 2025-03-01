@@ -1,50 +1,84 @@
-# Welcome to your Expo app 👋
+# Real Estate Buying & Selling Mobile App 🏠
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+Welcome to the **Real Estate Buying & Selling App**! This is a modern mobile app built with **React Native**, **TypeScript**, **NativeWind** for styling, and **Appwrite** for backend and database management. The app allows users to log in, log out, search houses, and view house details with images. It showcases a clean and efficient state management solution using **ReState**, along with a seamless integration of a powerful backend.
 
-## Get started
 
-1. Install dependencies
+---
+<br>
 
-   ```bash
-   npm install
-   ```
 
-2. Start the app
+## 📱 Features
 
-   ```bash
-    npx expo start
-   ```
+- **User Authentication**: Secure login and logout functionality.
+- **Property Listings**: Search and view properties with images and rich data.
+- **ReState for State Management**: Efficient and scalable state management for your application.
+- **TypeScript**: Typed codebase for better developer experience and fewer runtime errors.
+- **NativeWind**: Utility-first styling for a responsive and consistent UI.
+- **Appwrite Backend**: Fully managed backend solution for storage, databases, and authentication.
+- **Modern Architecture**: Simple and low-maintenance code structure.
 
-In the output, you'll find options to open the app in a
+---
+<br>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+## 🛠️ Tech Stack
 
-## Get a fresh project
+- **React Native**: For cross-platform mobile development
+- **TypeScript**: For type-safe code and enhanced developer experience
+- **NativeWind**: Tailwind CSS-like styling for React Native
+- **Appwrite**: Backend as a Service (BaaS) for authentication and database
+- **React Navigation**: For seamless navigation between screens
 
-When you're ready, run:
+---
+<br>
 
-```bash
-npm run reset-project
-```
+## 📸 Screenshots
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
 
-## Learn more
 
-To learn more about developing your project with Expo, look at the following resources:
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/images/screens/screen4.jpg" alt="Home Screen" width="200"><br>
+        <b>Login Screen</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/screens/screen5.jpg" alt="Profile Screen" width="200"><br>
+        <b>Home Screen</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/screens/screen1.jpg" alt="Explore Screen" width="200"><br>
+        <b>Explore Screen</b>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/images/screens/screen6.jpg" alt="Property Details Screen" width="200"><br>
+        <b>Property Details</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/screens/screen2.jpg" alt="Property Details Screen" width="200"><br>
+        <b>.</b>
+      </td>
+      <td align="center">
+        <img src="assets/images/screens/screen3.jpg" alt="Property Details Screen" width="200"><br>
+        <b>Profile Page</b>
+      </td>
+    </tr>
+  </table>
+</div>
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
 
-## Join the community
+---
+<br>
 
-Join our community of developers creating universal apps.
+## 📹 Demo Video
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<video src="assets/images/screens/video.mp4" controls width="500"></video>
+
+
+
+
+
+
